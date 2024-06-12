@@ -1,7 +1,7 @@
 [
     {
         "name": "Fooocus Dreamy",
-        "prompt": "award winning photo beautiful woman, deadly style, Masterpiece, best quality, high contrast, shiny skin, soft lighting, (bodycon), cleavage, (backlighting:1.2), (bloom:1.2), (light sparkles:1.1), (chromatic aberration:1.2), sharp focus, Style-Heavenly, in the style of Style-Undead",
+        "prompt": "award winning photo beautiful woman, deadly style, Masterpiece, best quality, high contrast, shiny skin, soft lighting, (bodycon), cleavage, (backlighting:1.2), (bloom:1.2), (light sparkles:1.1), (chromatic aberration:1.2), sharp focus, Style-Heavenly",
         "negative_prompt": "3d, cartoon, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name"
     },
     {
