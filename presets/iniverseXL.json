@@ -47,8 +47,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "chest_adjust.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/chest_adjust.safetensors"
-        "more_details.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/more_details.safetensors"
         "test_lightning_nomark_1024.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/test_lightning_nomark_1024.safetensors"
         "terrystyle_XL.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/terrystyle_XL.safetensors"
         "InstantPhotoX3.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/InstantPhotoX3.safetensors"
