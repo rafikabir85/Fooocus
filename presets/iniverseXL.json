@@ -47,7 +47,11 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+        "chest_adjust.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/chest_adjust.safetensors"
+        "more_details.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/more_details.safetensors"
+        "test_lightning_nomark_1024.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/test_lightning_nomark_1024.safetensors"
+        "terrystyle_XL.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/terrystyle_XL.safetensors"
+        "InstantPhotoX3.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/InstantPhotoX3.safetensors"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
