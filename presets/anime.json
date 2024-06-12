@@ -1,5 +1,5 @@
 {
-    "default_model": "animaPencilXL_v310.safetensors",
+    "default_model": "zavychromaxl_v80.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -31,19 +31,18 @@
     ],
     "default_cfg_scale": 6.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
-    "default_scheduler": "karras",
+    "default_sampler": "dpmpp_3m_sde",
+    "default_scheduler": "exponential",
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Semi Realistic",
-        "Fooocus Masterpiece"
+        "Fooocus dreamy"
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "animaPencilXL_v310.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v310.safetensors"
+        "zavychromaxl_v80.safetensors": "https://huggingface.co/modelzpalace/zavychromaxl_v80/blob/main/zavychromaxl_v80.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
