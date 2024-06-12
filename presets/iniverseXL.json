@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "iniverseMixXLSFWNSFW_turboV12.safetensors": "https://huggingface.co/modelzpalace/iNiverseMixXL/blob/main/iniverseMixXLSFWNSFW_turboV12.safetensors"
+        "iniverseMixXLSFWNSFW_turboV12.safetensors": "https://huggingface.co/modelzpalace/iNiverseMixXL/resolve/main/iniverseMixXLSFWNSFW_turboV12.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
