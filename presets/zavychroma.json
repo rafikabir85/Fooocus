@@ -42,7 +42,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "zavychromaxl_v80.safetensors": "https://huggingface.co/modelzpalace/zavychromaxl_v80/resolve/main/zavychromaxl_v80.safetensors?download=true"
+        "zavychromaxl_v80.safetensors": "https://huggingface.co/modelzpalace/zavychromaxl_v80/resolve/main/zavychromaxl_v80.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
