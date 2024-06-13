@@ -50,7 +50,7 @@
         "chest_adjust.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/chest_adjust.safetensors",
         "more_details.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/more_details.safetensors",
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "kendalljenner_dh128_v1d.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/kendalljenner_dh128_v1d.safetensors".
+        "kendalljenner_dh128_v1d.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/kendalljenner_dh128_v1d.safetensors",
         "kateupton_dh128_sdxxxl_v1.safetensors": "https://huggingface.co/modelzpalace/kateupton/resolve/main/kateupton_dh128_sdxxxl_v1.safetensors"
     },
     "previous_default_models": [
