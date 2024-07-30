@@ -48,7 +48,10 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "kendalljenner_dh128_v1d.safetensors": "https://huggingface.co/modelzpalace/chestadjust/resolve/main/kendalljenner_dh128_v1d.safetensors",
-        "kateupton_dh128_sdxxxl_v1.safetensors": "https://huggingface.co/modelzpalace/kateupton/resolve/main/kateupton_dh128_sdxxxl_v1.safetensors"
+        "kateupton_dh128_sdxxxl_v1.safetensors": "https://huggingface.co/modelzpalace/kateupton/resolve/main/kateupton_dh128_sdxxxl_v1.safetensors",
+        "doggystyle-facing-viewer-xl.safetensors": "https://huggingface.co/modelzpalace/doggystyle-facing-viewer/resolve/main/doggystyle%20facing%20viewer%20xl.safetensors",
+        "superdeep.safetensors": "https://huggingface.co/modelzpalace/superdeepdeep/resolve/main/superdeep.safetensors",
+        "mouthful.safetensors": "https://huggingface.co/modelzpalace/MOUTHFUL/resolve/main/mouthful.safetensors"
         
     },
     "previous_default_models": [
